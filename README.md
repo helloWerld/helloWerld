@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, python, firebase**
 
-- 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/russtrz.appspot.com/o/Russell%20Trzaska%202023.pdf?alt=media&token=ef70cc23-814c-4d03-a10c-a01eb42aecff](https://firebasestorage.googleapis.com/v0/b/russtrz.appspot.com/o/Russell%20Trzaska%202023.pdf?alt=media&token=ef70cc23-814c-4d03-a10c-a01eb42aecff)
+- 📄 Learn about my experience [View Resume](https://firebasestorage.googleapis.com/v0/b/russtrz.appspot.com/o/Russell%20Trzaska%202023.pdf?alt=media&token=ef70cc23-814c-4d03-a10c-a01eb42aecff)
 
 - ⚡ Fun fact **My favorite activity besides coding is fitness.**
 
