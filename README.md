@@ -9,12 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.russtrz.com](https://www.russtrz.com)
 
-- 💬 Ask me about **react, python, firebase**
-
-- 📄 Learn about my experience [View Resume](https://firebasestorage.googleapis.com/v0/b/russtrz.appspot.com/o/Russell%20Trzaska%202023.pdf?alt=media&token=ef70cc23-814c-4d03-a10c-a01eb42aecff)
-
-- ⚡ Fun fact **My favorite activity besides coding is fitness.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/russelltrzaska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="russelltrzaska" height="30" width="40" /></a>
