@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Russell</h1>
-<h3 align="center">A passionate frontend developer from Miami, FL.</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellowerld&label=Profile%20views&color=0e75b6&style=flat" alt="hellowerld" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellowerld" alt="hellowerld" /></a> </p>
 
 - 🔭 I’m currently working on [Cover Better](https://coverbetter.io)
 
