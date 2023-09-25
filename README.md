@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Russell</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<img src='https://media.licdn.com/dms/image/D4E03AQHPyxfibxsWVw/profile-displayphoto-shrink_200_200/0/1691030570983?e=1701302400&v=beta&t=9EaFFM7JtyKaX4BE9Eaet3LjopjOXt78LvPVUb6UI28' alt='profile picture' />
+<h2 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellowerld&label=Profile%20views&color=0e75b6&style=flat" alt="hellowerld" /> </p>
 
