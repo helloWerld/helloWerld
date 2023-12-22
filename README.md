@@ -1,10 +1,9 @@
 <h1>Hi 👋, I'm Russell</h1>
-<img align='center' src='https://media.licdn.com/dms/image/D4E03AQHPyxfibxsWVw/profile-displayphoto-shrink_200_200/0/1691030570983?e=1701302400&v=beta&t=9EaFFM7JtyKaX4BE9Eaet3LjopjOXt78LvPVUb6UI28' alt='profile picture' />
 <h2>Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellowerld&label=Profile%20views&color=0e75b6&style=flat" alt="hellowerld" /> </p>
 
-- 🔭 I’m currently working on [Cover Better](https://coverbetter.io)
+- 🔭 I’m currently working on [Cover Better](https://coverbetter.io) and [Lever.io](https://www.lever.io)
 
 - 👨‍💻 All of my projects are available at [https://www.russtrz.com](https://www.russtrz.com)
 
