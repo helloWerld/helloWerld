@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Next JS, Firebase, and more...**
 
-- 📄 Check out my portfolio [https://trzruss.com](https://trzruss.com)
+- 📄 Check out my portfolio [https://russtrz.com](https://russtrz.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
