@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Russell</h1>
-<h2>Full Stack Web Developer</h3>
+<h2>Full Stack Web Developer / Web Developer Coach & Mentor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellowerld&label=Profile%20views&color=0e75b6&style=flat" alt="hellowerld" /> </p>
 
-- 🔭 I’m currently working on [Cover Better](https://coverbetter.io) and [Lever.io](https://www.lever.io)
+- 🔭 I’m currently working on [Cover Better](https://coverbetter.io) and [CodeNoobs.io](https://www.codenoobs.io)
 
 - 👨‍💻 All of my projects are available at [https://www.russtrz.com](https://www.russtrz.com)
 
