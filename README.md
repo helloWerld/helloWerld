@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellowerld&label=Profile%20views&color=0e75b6&style=flat" alt="hellowerld" /> </p>
 
-- 🔭 I’m currently working on building [Prescursor](https://www.precursor.tools/)
+- 🔭 I’m currently working on building [Precursor](https://www.precursor.tools/)
 
 - 📄 Check out my portfolio [https://russtrz.com](https://russtrz.com)
 
