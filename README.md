@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellowerld&label=Profile%20views&color=0e75b6&style=flat" alt="hellowerld" /> </p>
 
-- 🔭 I’m currently working on building [CodeNoobs](https://codenoobs.io/)
-
-- Join the CodeNoobs mentoring community on [Facebook](https://facebook.com/groups/codenoobs)
-
-- 🌱 I’m currently learning **everything I can get my hands on!**
-
-- 💬 Ask me about **React, Next JS, Firebase, and more...**
+- 🔭 I’m currently working on building [Prescursor](https://www.precursor.tools/)
 
 - 📄 Check out my portfolio [https://russtrz.com](https://russtrz.com)
 
