@@ -1,18 +1,94 @@
-<h1 align="center">👋 Hi, I'm Russell</h1>
-<h3 align="center">A Full Stack Web Developer and Coding Mentor</h3>
+<h1 align="center">👋 Hi, I'm Russell Trzaska</h1>
+<h3 align="center">Full Stack Web Developer • SaaS Startup Founder • AI Integration Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hellowerld&label=Profile%20views&color=0e75b6&style=flat" alt="hellowerld" /> </p>
-
-- 🔭 I’m currently working on building [Precursor](https://www.precursor.tools/)
-
-- 📄 Check out my portfolio [https://russtrz.com](https://russtrz.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/russelltrzaska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="russelltrzaska" height="30" width="40" /></a>
-<a href="https://fb.com/russelltrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="russelltrz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCXNUCvWPXUPqv4x0pBlJgSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxnucvwpxupqv4x0pbljgsa" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.precursor.tools" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=hellowerld&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+I’m a **Full Stack Web Developer** and **Startup Founder** passionate about building **SEO-driven, AI-powered, and high-performance web apps**. As **Co-founder & CTO of [Precursor.tools](https://www.precursor.tools)**, I help developers go from idea to production with **AI-ready development plans** that eliminate vibe coding chaos. Alongside my startups, I mentor new developers through **[CodeNoobs](https://www.codenoobs.io)**, helping them learn real-world coding skills and land their first tech roles.
+
+---
+
+## 🏆 Current Focus
+
+- **Building:** [Precursor.tools](https://www.precursor.tools) — “Start with Structure, End Vibe Coding Chaos.”  
+  An **interactive developer toolkit** for creating structured, AI-ready development docs for building and scaling web apps.  
+  - **Tech Stack:** Next.js, Vercel, Tailwind, Supabase, OpenAI API, Zod, Framer Motion, GSAP, Lucide React  
+  - **Recent Milestones:**
+    - Launched MVP (Aug 2025)  
+    - 90+ early access sign-ups & 10 committed beta testers  
+    - Featured in [The Precursor Manifesto](https://medium.com/@christopher.graves09/the-precursor-manifesto-why-context-architecture-beats-prompt-engineering-f10043e4a3f6)
+
+---
+
+## 💼 Featured Projects
+
+- **[CoverBetter.io](https://www.coverbetter.io)** – AI-generated professional cover letters  
+- **[SacredLifestyleYoga.com](https://www.sacredlifestyleyoga.com)** – SEO-optimized wellness site  
+- **[RenewPic.com](https://www.renewpic.com)** – AI photo restoration for 40+ demographic  
+- **[Lever.io](https://lever.io)** – Web3 influencer marketplace  
+- **[BitBasel.com](https://bitbasel.com)** – Bitcoin Ordinal Marketplace  
+- **[PromptGarden.io](https://promptgarden.io)** – AI prompt curation and sharing platform  
+- **[Bullish.finance](https://bullish.finance)** – Crypto marketing agency
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+TypeScript, JavaScript, HTML5, CSS3  
+
+**Frontend:**  
+React, Next.js, Tailwind CSS, Framer Motion, GSAP, Lucide React  
+
+**Backend & Databases:**  
+Node.js, Supabase, Firebase, PostgreSQL, MongoDB  
+
+**AI & APIs:**  
+OpenAI API, Stripe API, RESTful APIs, Zod  
+
+**Cloud & Deployment:**  
+Vercel, Cloudflare, AWS, Docker  
+
+**Other Tools:**  
+Git, Postman, Figma
+
+---
+
+## 🎙 Speaking & Community
+
+- Co-founder & CTO of **[Precursor.tools](https://www.precursor.tools)**  
+- Co-founder of **[CodeNoobs](https://www.codenoobs.io)** — 1,600+ member developer community  
+- Speaker at **Toronto Bits Startup Grind (Virtual)**  
+- Host of **Precursor Podcast** — Every Wednesday at 8 PM EST on [YouTube](https://www.youtube.com/@precursor_tools)  
+
+---
+
+## 📈 Recent Activity
+
+- **Precursor** — 722 visitors & 1,120 page views in the last 30 days  
+- 90+ early access sign-ups for MVP launch (Aug 2025)  
+
+---
+
+## 🤝 Let’s Connect
+
+💡 Interested in **collaborating, hiring me, or joining Precursor’s early access**?  
+📩 Reach out via [LinkedIn](https://www.linkedin.com/in/russelltrzaska/) or visit [Precursor.tools](https://www.precursor.tools) to join the waitlist.
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/russelltrzaska/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.precursor.tools/">
+    <img src="https://img.shields.io/badge/Precursor-Join%20Early%20Access-orange?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
