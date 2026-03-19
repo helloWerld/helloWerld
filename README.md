@@ -42,7 +42,6 @@ Before Cozmos, I co-founded [Crypto Love](https://crypto-love.com) (YouTube chan
 ## 💼 Web3 Track Record
 
 - 🚀 [Cozmos.io](https://www.cozmos.io) – Crypto influencer marketplace *(current)*
-- 🔗 [Lever.io](https://lever.io) – Web3 influencer marketplace *(co-founder)*
 - ₿ [BitBasel.com](https://bitbasel.com) – Bitcoin Ordinal Marketplace
 - 📈 [Bullish.finance](https://bullish.finance) – Crypto marketing agency
 - 🎥 [Crypto Love](https://www.youtube.com/@CryptoLove) – 250K+ subscriber YouTube channel
