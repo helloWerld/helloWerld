@@ -13,34 +13,36 @@
 
 I'm the Co-Founder of [Cozmos](https://www.cozmos.io) — the first crypto-native influencer marketplace connecting brands directly with verified crypto creators.
 
-With 250K+ subscribers on [Crypto Love](https://www.youtube.com/@CryptoLove) and years building in Web3, I've seen firsthand how broken influencer marketing is in crypto. Cozmos fixes that through transparency and automation.
+With 250K+ subscribers on [Crypto Love](https://www.youtube.com/@CryptoLove) and years building in Web3, I’ve experienced the friction of manual business operations firsthand. I build AI and Web3 solutions that eliminate that friction, allowing founders and creators to move from being "operators" to true owners.
 
-Beyond Web3, I develop AI-driven tools that simplify complex workflows—from automated real estate operations with **ClawSkool** to creative design automation with **ColorDrop**. I build at the intersection of AI, community, and the creator economy.
+Whether it's building a transparent marketplace at **Cozmos**, developing automated AI business managers at **ClawSkool**, or creating design tools like **ColorDrop**, I focus on tools that scale human potential.
 
 ---
 
 ## 🏆 Current Focus
 
 **1. [Cozmos.io](https://www.cozmos.io)** — The crypto influencer marketplace
-- **The Problem:** Opaque agencies and slow payments for creators.
-- **The Solution:** Direct brand-to-creator marketplace with escrow payments and verified metrics.
+- **Problem:** Fragmented marketing and delayed payments in the crypto creator economy.
+- **Solution:** Direct brand-to-creator marketplace with escrow, verified on-chain metrics, and no middlemen.
 - **Tech Stack:** Next.js, Golang, Google Cloud, Vercel
 
-**2. [ClawSkool](https://www.clawskool.xyz)** — AI Automation for Real Estate
-- **The Project:** A community and course platform (hosted on [Skool](https://www.skool.com/clawskool-4559)) teaching agents how to use **OpenClaw** to automate lead nurture and listing ops.
-- **Goal:** Helping founders and agents build "AI Twins" to put business growth on 24/7 autopilot.
+**2. [ClawSkool.xyz](https://www.clawskool.xyz)** — The AI Business Manager Mastery
+- **Project:** A training and community ecosystem (hosted on [Skool](https://www.skool.com/clawskool-4559)) built on **OpenClaw** to help professionals automate their "back office."
+- **Capabilities:** Automating content repurposing, brand outreach, community management, and daily business briefings.
+- **My Role:** Co-Founder & Developer — I build the automation "recipes" and SOUL.md configurations that give AI agents a consistent, human-like voice.
 
-**3. [ColorDrop.ai](https://colordrop.ai)** — AI-Powered Color Palette Discovery
-- **The Project:** An advanced AI color palette generator and image color extractor.
-- **Features:** Uses sophisticated quantization algorithms to extract accurate schemes from photos for designers and developers.
+**3. [ColorDrop.ai](https://colordrop.ai)** — AI Color Discovery & Design Tools
+- **Project:** A dedicated platform for designers and developers to discover, generate, and manage color palettes.
+- **Core Features:** AI-generated color schemes, image-to-palette extraction, and "Flat Design" color curation.
+- **My Role:** Developer & Founder.
 
 ---
 
 ## 💼 Development & Web3 Track Record
 
 - 🚀 [Cozmos.io](https://www.cozmos.io) – Crypto influencer marketplace *(current)*
-- 🤖 [ClawSkool.xyz](https://www.clawskool.xyz) – AI automation community & OpenClaw mastery *(founder)*
-- 🎨 [ColorDrop.ai](https://colordrop.ai) – AI color palette engine *(developer)*
+- 🤖 [ClawSkool.xyz](https://www.clawskool.xyz) – AI business automation platform *(co-founder)*
+- 🎨 [ColorDrop.ai](https://colordrop.ai) – AI color palette discovery engine *(developer)*
 - ₿ [BitBasel.com](https://bitbasel.com) – Bitcoin Ordinal Marketplace
 - 📈 [Bullish.finance](https://bullish.finance) – Crypto marketing agency
 - 🎥 [Crypto Love](https://www.youtube.com/@CryptoLove) – 250K+ subscriber YouTube channel
@@ -57,10 +59,10 @@ Beyond Web3, I develop AI-driven tools that simplify complex workflows—from au
 ## 🛠️ Tech Stack
 
 **Languages:** TypeScript, JavaScript, Golang, Python, HTML5, CSS3
-**Frontend:** React, Next.js, Tailwind CSS, Framer Motion
+**Frontend:** React, Next.js, Tailwind CSS, Framer Motion, GSAP
 **Backend:** Node.js, Golang, Supabase, Firebase, PostgreSQL, MongoDB
 **Web3:** Smart Contracts, Escrow Systems, On-Chain Metrics, Ordinals
-**AI & Automation:** OpenAI API, OpenClaw, LLM Integration, Anthropic API
+**AI & Automation:** OpenAI API, OpenClaw (AI Agents), SOUL.md Configs, Anthropic API
 **Cloud:** Vercel, Google Cloud, AWS, Cloudflare, Docker
 
 ---
@@ -68,16 +70,18 @@ Beyond Web3, I develop AI-driven tools that simplify complex workflows—from au
 ## 🎙 Creator & Community
 
 - **[Crypto Love](https://www.youtube.com/@CryptoLove)** — 250K+ subscribers, crypto education & market analysis
-- **[ClawSkool Community](https://www.skool.com/clawskool-4559)** — Leading the movement in AI-driven real estate automation
+- **[ClawSkool](https://www.skool.com/clawskool-4559)** — Teaching professionals how to build "AI Twins" for their business
 - Co-founder of **[CodeNoobs](https://www.codenoobs.io)** — 1,600+ member developer community
 
 ---
 
 ## 🤝 Let's Connect
 
-🚀 **Brands/Creators:** Let's scale your reach → [cozmos.io](https://www.cozmos.io)
+🚀 **Brands/Creators:** Let's work together → [cozmos.io](https://www.cozmos.io)
 
-🤖 **Real Estate/Automation:** Automate your workflow → [clawskool.xyz](https://www.clawskool.xyz)
+🤖 **Professionals:** Automate your business → [clawskool.xyz](https://www.clawskool.xyz)
+
+🎨 **Designers:** Find your next palette → [colordrop.ai](https://colordrop.ai)
 
 💡 **Investors & Partners:** Let's talk → [LinkedIn](https://www.linkedin.com/in/russelltrzaska/)
 
